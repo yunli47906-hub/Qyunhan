@@ -1,3 +1,15 @@
+---
+title: Qyunhan
+library_name: qyunhan
+license: mit
+tags:
+  - virtual-cell
+  - perturbation-response
+  - conformal-prediction
+  - selective-prediction
+  - tuberculosis
+---
+
 # Qyunhan: a virtual cell that separates what it knows from what it doubts
 
 A program-resolution virtual cell with calibrated abstention, for host-directed
