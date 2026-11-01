@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the article named in references.
+title: Qyunhan
+abstract: >-
+  A program-resolution virtual cell with calibrated abstention. A closed-form
+  shared-latent estimator places four cell lines in one low-dimensional space and
+  predicts a target line's programme profile from its sources; a split-conformal
+  layer on relative error, ordered by a hardness head, decides whether a claim is
+  delivered, flagged, abstained from, or returned as an experiment.
+authors:
+  - family-names: Gou
+    given-names: Yuxuan
+  - family-names: Luo
+    given-names: Tingting
+  - family-names: Chen
+    given-names: Jie
+  - family-names: Cai
+    given-names: Minghui
+  - family-names: Yan
+    given-names: Huimin
+  - family-names: Song
+    given-names: Chenghang
+  - family-names: Yang
+    given-names: Yang
+  - family-names: Zhao
+    given-names: Yating
+  - family-names: Li
+    given-names: Qifeng
+  - family-names: Wu
+    given-names: Jiangdong
+    email: 1556874645@qq.com
+version: 0.1.0
+date-released: 2026-11-01
+license: MIT
+repository-code: https://github.com/yunli47906-hub/Qyunhan
+keywords:
+  - virtual cell
+  - perturbation response
+  - conformal prediction
+  - selective prediction
+  - tuberculosis

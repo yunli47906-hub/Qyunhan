@@ -1,0 +1,5 @@
+# Full pipeline (kt109-kt120). The qyunhan package itself needs only numpy.
+numpy>=1.22
+torch>=2.1
+pandas>=2.0
+scipy>=1.10

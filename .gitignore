@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# analysis inputs and archived outputs - not redistributed
+cov/
+runs/
+results/
+seq/
+models/
+*.npy
+*.pt
+*.safetensors
