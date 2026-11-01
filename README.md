@@ -1,4 +1,4 @@
-# Qyunhan
+# Qyunhan: a virtual cell that separates what it knows from what it doubts
 
 A program-resolution virtual cell with calibrated abstention, for host-directed
 target triage in tuberculosis.
